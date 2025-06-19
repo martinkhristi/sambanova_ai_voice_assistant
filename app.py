@@ -21,8 +21,8 @@ from assemblyai.streaming.v3 import (
 )
 
 # API Keys - Replace with your actual keys
-SAMBANOVA_API_KEY = "617d852a-f288-4e45-96e9-7747aa759094"
-ASSEMBLYAI_API_KEY = "f9f38b0d5f474df4b119641067233f5a"
+SAMBANOVA_API_KEY = "sambanova_api_key"
+ASSEMBLYAI_API_KEY = "assembly_api_key"
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
